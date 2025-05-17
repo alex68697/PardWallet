@@ -49,6 +49,6 @@ We’ve raised **$25,000** to date and are currently in active discussions with 
 
 ## 📬 Contact
 
-Telegram: [@yourhandle]  
-Email: team@pardwallet.xyz  
+Telegram: [@Alexandru_404]  
+Email: czsas86@gmail.com  
 Website: [https://pardwallet.xyz]([https://pardwallet.xyz](https://pardwallet1.framer.ai/#hero)) *(if ready)*
