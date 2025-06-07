@@ -34,8 +34,8 @@ The project is currently in the **early development stage**. We are finalizing t
 
 ## 👥 Team
 
-- **Founder & Visionary** — Alexander (Аркипехолог)
-- **Marketing & Partnerships** — [Name / Placeholder]
+- **Founder & Visionary** — Alexander 
+- **Marketing & Partnerships** — Dan 
 
 We're a small but committed team aiming to build a next-gen wallet product for a new wave of crypto adoption.
 
